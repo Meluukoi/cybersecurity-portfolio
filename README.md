@@ -25,7 +25,7 @@ Built a Windows-based security monitoring environment using Splunk Enterprise, S
 * Splunk Administration
 
 Repository:
-`https://github.com/Meluukoi/soc-analyst-home-lab`
+https://github.com/Meluukoi/soc-analyst-home-lab
 
 ---
 
