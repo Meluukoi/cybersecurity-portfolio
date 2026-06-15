@@ -25,7 +25,7 @@ Built a Windows-based security monitoring environment using Splunk Enterprise, S
 * Splunk Administration
 
 Repository:
-`github.com/Meluukoi/soc-analyst-home-lab`
+`https://github.com/Meluukoi/soc-analyst-home-lab`
 
 ---
 
@@ -42,7 +42,7 @@ Developed detection rules and security monitoring use cases using Splunk SPL and
 * Security Monitoring
 
 Repository:
-`github.com/Meluukoi/splunk-detection-engineering-lab`
+`https://github.com/Meluukoi/splunk-detection-engineering-lab`
 
 ---
 
@@ -59,7 +59,7 @@ Conducted hypothesis-driven threat hunts using endpoint and authentication telem
 * Security Operations
 
 Repository:
-`github.com/Meluukoi/splunk-threat-hunting-lab`
+`https://github.com/Meluukoi/splunk-threat-hunting-lab`
 
 ---
 
@@ -76,7 +76,7 @@ Performed investigations involving PowerShell execution, account creation, authe
 * Threat Detection
 
 Repository:
-`github.com/Meluukoi/soc-incident-response-lab`
+`https://github.com/Meluukoi/soc-incident-response-lab`
 
 ---
 
@@ -93,7 +93,7 @@ Built security monitoring dashboards for authentication activity, process creati
 * XML Field Extraction
 
 Repository:
-`github.com/Meluukoi/splunk-security-dashboards`
+`https://github.com/Meluukoi/splunk-security-dashboards`
 
 ---
 
