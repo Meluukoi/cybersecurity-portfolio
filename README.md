@@ -1,150 +1,212 @@
-# Cybersecurity Portfolio
-
-Welcome to my cybersecurity portfolio. This repository serves as a central hub for my hands-on cybersecurity projects focused on security monitoring, threat detection, incident response, threat hunting, and Splunk-based security operations.
-
----
+# Milad Kabiri | Cybersecurity Portfolio
 
 ## About Me
 
-CompTIA Security+ certified cybersecurity professional with hands-on experience using Splunk Enterprise, Sysmon, Windows Event Logs, and Wireshark. My projects focus on SOC operations, detection engineering, incident response, threat hunting, and security monitoring.
+CompTIA Security+ certified cybersecurity professional with hands-on experience in Security Operations (SOC), threat detection, incident response, threat hunting, detection engineering, and security monitoring.
+
+Experienced with Splunk Enterprise, Splunk SPL, Sysmon, Windows Event Logs, Active Directory, Azure Entra ID, Wireshark, and MITRE ATT&CK methodologies.
+
+This portfolio showcases practical security operations projects focused on monitoring, detection, investigation, and incident response workflows commonly used by SOC Analysts and Cybersecurity Analysts.
 
 ---
 
-## Projects
+# Core Competencies
 
-### SOC Analyst Home Lab
-
-Built a Windows-based security monitoring environment using Splunk Enterprise, Sysmon, Windows Event Logs, and Wireshark.
-
-**Skills Demonstrated**
-
-* Security Monitoring
-* Log Analysis
-* Network Traffic Analysis
-* Sysmon Deployment
-* Splunk Administration
-
-Repository:
-https://github.com/Meluukoi/soc-analyst-home-lab
+- Security Operations (SOC)
+- Threat Detection & Monitoring
+- Incident Response
+- Threat Hunting
+- Detection Engineering
+- Active Directory Security
+- Azure Entra ID Security
+- Splunk Enterprise & Splunk SPL
+- Windows Event Logging
+- Sysmon
+- MITRE ATT&CK
+- Network Traffic Analysis
 
 ---
 
-### Splunk Detection Engineering Lab
+# Featured Projects
 
-Developed detection rules and security monitoring use cases using Splunk SPL and Windows telemetry.
+## Active Directory Security Monitoring
 
-**Skills Demonstrated**
+Security monitoring and investigation environment focused on Active Directory account management, password resets, privilege changes, and group membership modifications.
 
-* Detection Engineering
-* Splunk SPL
-* MITRE ATT&CK Mapping
-* Windows Security Events
-* Security Monitoring
+### Technologies
 
-Repository:
-https://github.com/Meluukoi/splunk-detection-engineering-lab
+- Splunk Enterprise
+- Windows Event Logs
+- Active Directory
+- Sysmon
+- MITRE ATT&CK
 
----
+### Skills Demonstrated
 
-### Splunk Threat Hunting Lab
+- Security Monitoring
+- Threat Detection
+- Incident Investigation
+- Active Directory Security
+- Log Analysis
 
-Conducted hypothesis-driven threat hunts using endpoint and authentication telemetry.
-
-**Skills Demonstrated**
-
-* Threat Hunting
-* Log Correlation
-* Endpoint Investigation
-* Authentication Analysis
-* Security Operations
-
-Repository:
-https://github.com/Meluukoi/splunk-threat-hunting-lab
+**Repository:**  
+https://github.com/Meluukoi/active-directory-security-monitoring
 
 ---
 
-### SOC Incident Response Lab
+## Security Incident Response
 
-Performed investigations involving PowerShell execution, account creation, authentication events, privilege changes, and account deletions.
+Security investigations involving PowerShell execution, failed logons, account modifications, privilege changes, and suspicious user activity.
 
-**Skills Demonstrated**
+### Technologies
 
-* Incident Response
-* Timeline Reconstruction
-* Security Investigation
-* Event Analysis
-* Threat Detection
+- Splunk Enterprise
+- Windows Event Logs
+- Sysmon
+- MITRE ATT&CK
 
-Repository:
+### Skills Demonstrated
+
+- Incident Response
+- Timeline Analysis
+- Event Correlation
+- Security Investigations
+- Remediation Recommendations
+
+**Repository:**  
 https://github.com/Meluukoi/soc-incident-response-lab
 
 ---
 
-### Splunk Security Dashboards
+## Splunk Threat Hunting
 
-Built security monitoring dashboards for authentication activity, process creation activity, and network connections.
+Hypothesis-driven threat hunting using endpoint and network telemetry collected from Windows systems.
 
-**Skills Demonstrated**
+### Technologies
 
-* Dashboard Development
-* Data Visualization
-* Splunk Dashboard Studio
-* Security Monitoring
-* XML Field Extraction
+- Splunk Enterprise
+- Sysmon
+- Windows Event Logs
+- Wireshark
 
-Repository:
-https://github.com/Meluukoi/splunk-security-dashboards
+### Skills Demonstrated
 
----
+- Threat Hunting
+- Detection Validation
+- Security Analytics
+- Endpoint Monitoring
+- Log Correlation
 
-## Certifications
-
-* CompTIA Security+
-* Google Cybersecurity Professional Certificate
-
----
-
-## Technical Skills
-
-### SIEM & Monitoring
-
-* Splunk Enterprise
-* Security Monitoring
-* Dashboard Development
-* Log Analysis
-
-### Endpoint Monitoring
-
-* Sysmon
-* Windows Event Logs
-* Process Creation Monitoring
-* Network Connection Monitoring
-
-### Threat Detection & Incident Response
-
-* Detection Engineering
-* Threat Hunting
-* Incident Response
-* MITRE ATT&CK
-
-### Networking
-
-* TCP/IP
-* DNS
-* DHCP
-* HTTP/HTTPS
-* Wireshark
-
-### Operating Systems
-
-* Windows
-* Linux
+**Repository:**  
+https://github.com/Meluukoi/splunk-threat-hunting-lab
 
 ---
 
-## Contact
+## Azure Entra ID Security
 
-LinkedIn: linkedin.com/in/milad-kabiri-98154a261
+Identity-focused security monitoring and investigation using Azure Entra ID authentication and audit logs.
 
-GitHub: github.com/Meluukoi
+### Technologies
+
+- Azure Entra ID
+- Microsoft Cloud Services
+- Authentication Logs
+
+### Skills Demonstrated
+
+- Identity Security
+- Authentication Monitoring
+- Cloud Security
+- User Activity Analysis
+- Access Management
+
+**Repository:**  
+https://github.com/Meluukoi/azure-entra-id-security-lab
+
+---
+
+## Splunk Detection Engineering
+
+Development of detection logic using Splunk SPL to identify suspicious activities and security-relevant events.
+
+### Technologies
+
+- Splunk Enterprise
+- Splunk SPL
+- Sysmon
+- Windows Event Logs
+
+### Skills Demonstrated
+
+- Detection Engineering
+- Alert Development
+- Splunk SPL
+- Security Monitoring
+- MITRE ATT&CK Mapping
+
+**Repository:**  
+https://github.com/Meluukoi/splunk-detection-engineering-lab
+
+---
+
+## Security Monitoring Environment
+
+Windows-based security monitoring environment built to collect, analyze, and investigate endpoint and network telemetry.
+
+### Technologies
+
+- Splunk Enterprise
+- Sysmon
+- Wireshark
+- Windows Event Logs
+
+### Skills Demonstrated
+
+- Security Monitoring
+- Log Collection
+- Dashboard Development
+- Telemetry Analysis
+- Network Monitoring
+
+**Repository:**  
+https://github.com/Meluukoi/soc-analyst-home-lab
+
+---
+
+# Certifications
+
+- CompTIA Security+ (SY0-701)
+- Google Cybersecurity Professional Certificate
+
+---
+
+# Professional Interests
+
+- Security Operations Center (SOC)
+- Threat Detection & Response
+- Detection Engineering
+- Threat Hunting
+- Cloud Identity Security
+- Incident Response
+- Security Monitoring
+
+---
+
+# Contact
+
+## LinkedIn
+
+https://linkedin.com/in/milad-kabiri-98154a261
+
+## GitHub
+
+https://github.com/Meluukoi
+
+## Location
+
+San Diego, California
+
+## Work Authorization
+
+U.S. Citizen
 
